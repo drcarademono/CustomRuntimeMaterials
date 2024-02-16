@@ -1,0 +1,14 @@
+{
+    "ModTitle": "CustomRuntimeMaterials",
+    "ModVersion": "1.0",
+    "ModAuthor": "carademono",
+    "ContactInfo": "Lysandus' Tomb Discord server",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "Scripts that allow mod creators to dynamically swap textures based on Climate and Region.",
+    "GUID": "adbedaa0-255b-4f20-b289-845d99c3211b",
+    "Files": [
+        "Assets/Game/Mods/CustomRuntimeMaterials/Scripts/CustomRuntimeMaterialsMod.cs",
+        "Assets/Game/Mods/CustomRuntimeMaterials/CustomRuntimeMaterials.dfmod.json",
+        "Assets/Game/Mods/CustomRuntimeMaterials/CustomRuntimeMaterials/53171.json"
+    ]
+}
